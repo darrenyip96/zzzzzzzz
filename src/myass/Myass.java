@@ -16,6 +16,7 @@ public class Myass {
      */
     public static void main(String[] args) {
        System.out.print("mama!");
+       System.out.println("bye");
     }
     
 }
